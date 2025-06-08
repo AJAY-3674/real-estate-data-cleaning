@@ -17,13 +17,11 @@ To clean and prepare the dataset for further analysis and visualization, focusin
 
 ## Folder Structure
 real-estate-data-cleaning/
-├── notebooks/
-│ └── real_estate_cleaning.ipynb
-├── data/
-│ └── chennai_real_estate.csv (optional or sample)
-├── README.md
-├── requirements.txt
-└── .gitignore
+notebooks/real_estate_cleaning.ipynb
+data/chennai_real_estate.csv
+README.md
+requirements.txt
+.gitignore
 
 ## How to Run
 1. Clone this repository
